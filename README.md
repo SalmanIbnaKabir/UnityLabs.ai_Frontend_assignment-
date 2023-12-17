@@ -12,11 +12,11 @@ git clone https://github.com/SalmanIbnaKabir/UnityLabs.ai_Frontend_assignment-
 yarn
 ```
 
-3. Set up your MongoDB database and update the connection string in index.js.
-
 4. Start the server:
 
 ```bash
 
 yarn run dev
 ```
+
+this project will run the following port:http://localhost:3000/
